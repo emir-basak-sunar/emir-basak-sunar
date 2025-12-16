@@ -33,6 +33,12 @@ I design and build **production-grade AI systems**
 - SQL  
 - Java (Spring Boot)
 
+## Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emir-basak-sunar&layout=compact&theme=dark&langs_count=8" />
+</p>
+
 ### AI / Machine Learning
 - PyTorch, Hugging Face Transformers
 - LoRA / QLoRA fine-tuning
@@ -53,6 +59,11 @@ I design and build **production-grade AI systems**
 - Inference optimization & cost-aware scaling
 
 ---
+
+## ⏱ WakaTime Stats
+
+
+
 
 ##  Featured Projects
 
@@ -86,6 +97,21 @@ Custom LLM system fine-tuned to:
 > Focused on code reasoning, not just code generation.
 
 ---
+⚙️ Back-End
+<p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white"/> </p>
+🎲 Data
+<p align="left"> <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white"/> </p>
+🗄 Databases
+<p align="left"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white"/> </p>
+🔗 ORM
+<p align="left"> <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=white"/> </p>
+☁️ Cloud
+<p align="left"> <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white"/> </p>
+🖥 SysOps
+<p align="left"> <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/NVIDIA%20CUDA-76B900?logo=nvidia&logoColor=white"/> <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white"/> </p>
+🚀 DevOps
+<p align="left"> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white"/> <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white"/> </p>
+
 
 ##  GitHub Stats
 
