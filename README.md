@@ -48,7 +48,7 @@ I design and build **production-grade AI systems**
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### 🔹 Autonomous AI System
 Multi-agent LLM architecture featuring:
@@ -81,7 +81,7 @@ Custom LLM system fine-tuned to:
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emir-basak-sunar&show_icons=true&theme=dark)
 
