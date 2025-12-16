@@ -1,72 +1,92 @@
- AI Engineer | Backend Developer | SaaS Builder  
- Large Language Models • Data Engineering • System Design
+#  Hi, I'm Emir Başak Sunar
+
+## AI Engineer | Backend & Systems Engineer | SaaS Builder  
+**Large Language Models • Fine-Tuning • MLOps • Scalable AI Systems**
 
 ---
 
 ##  About Me
 
-- I build **AI-powered systems** and **production-grade backend services**
-- Focused on **LLMs, fine-tuning, RAG, and scalable architectures,Anomaly Detection,Forecasting,Forecasting,NLP**
-- Interested in **autonomous agents, MLOps, and real-world AI products**
-- Currently working on **AI-driven SaaS platforms**
+I design and build **production-grade AI systems**
+
+- Specialized in **Large Language Models**, including **fine-tuning (LoRA / QLoRA)**, **RAG pipelines**, and **high-performance inference**
+- Strong focus on **end-to-end AI systems**: data → model → deployment → monitoring
+- Experienced in **time-series forecasting, anomaly detection, and NLP** for real-world business problems
+- Building **AI-powered SaaS platforms** with scalability, cost-efficiency, and reliability in mind
+- Deep interest in **autonomous agents**, **LLM reasoning**, and **system-level optimization**
+
+> I work at the intersection of **AI, backend engineering, and system design**.
 
 ---
 
 ##  Tech Stack
 
-**Languages**
-- Python, C, SQL, JavaSpringBoot,Java 
+### Languages
+- Python  
+- C / C++  
+- SQL  
+- Java (Spring Boot)
 
-**AI / ML**
-- PyTorch, Transformers, LoRA / QLoRA
-- LLaMA, Qwen, Open-source LLMs
-- Time Series Forecasting, NLP
+### AI / Machine Learning
+- PyTorch, Hugging Face Transformers
+- LoRA / QLoRA fine-tuning
+- Open-source LLMs: LLaMA, Qwen
+- Time Series Forecasting
+- NLP & Code Intelligence
 
-**Backend**
+### Backend & Systems
 - FastAPI, Flask
 - PostgreSQL, Redis
-- Docker
+- Asynchronous & high-throughput API design
+- GPU-aware model serving architectures
 
-**DevOps & Tools**
-- Git, GitHub Actions
-- CUDA
-- Cloud & On-Prem Deployments
-
----
-
-##  Featured Projects
-
-🔹 **Autonomous AI System**
-> Multi-agent LLM architecture with memory, planning, and tool usage
-
-🔹 **Energy Forecasting Platform**
-> Time-series based billing & cash-flow prediction system
-
-🔹 **Flowchart-to-Code AI**
-> LLM fine-tuned to analyze and optimize generated C/C++ code
+### MLOps / DevOps
+- Docker, CUDA
+- Git & GitHub Actions
+- Cloud & On-Prem GPU deployments
+- Inference optimization & cost-aware scaling
 
 ---
 
-##  GitHub Stats
+## 🚀 Featured Projects
+
+### 🔹 Autonomous AI System
+Multi-agent LLM architecture featuring:
+- Long-term memory and context management
+- Planning and decision-making capabilities
+- Tool usage and code execution
+- Modular and extensible agent design
+
+> Designed for real-world task automation, not toy agents.
+
+---
+
+### 🔹 Energy Forecasting Platform
+AI-driven forecasting system for:
+- Energy billing prediction
+- Cash-flow estimation
+- Anomaly detection in consumption patterns
+
+> Built with advanced time-series models and production-ready data pipelines.
+
+---
+
+### 🔹 Flowchart-to-Code AI
+Custom LLM system fine-tuned to:
+- Analyze generated C/C++ code
+- Detect inefficiencies and logical flaws
+- Suggest optimized, production-grade implementations
+
+> Focused on code reasoning, not just code generation.
+
+---
+
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emir-basak-sunar&show_icons=true&theme=dark)
 
 ---
 
-##  Contact
-- 📧 Email: emirsunar13@gmail.com 
+## 📬 Contact
 
-<!--
-**emir-basak-sunar/emir-basak-sunar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📧 Email: **emirsunar13@gmail.com**
