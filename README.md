@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=AI+Engineer;LLM+Systems+Developer;Autonomous+AI+Architect;Backend+%2B+MLOps" />
+</p>
+
+
+
 #  Hi, I'm Emir Başak Sunar
 
 ## AI Engineer | Backend & Systems Engineer | SaaS Builder  
